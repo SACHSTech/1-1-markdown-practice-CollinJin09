@@ -68,25 +68,27 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 ## 6. Regional Diversity in the Golden Age  
 
-U.S. Map (image link: https://i.imgur.com/aLT8i1B.png)
+![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
-Region   | Key Artists            | Notable Albums  
-East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers  
-West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton  
-Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
-South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik  
+Region   | Key Artists            | Notable Albums   | 
+| ----------- | ----------- | ----------- | 
+| East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers|
+| West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton |  
+Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  | 
+South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik  | 
 
-7. Transition to the 2000s  
+
+## 7. Transition to the 2000s  
 
 By the late 1990s, the deaths of Tupac Shakur and The Notorious B.I.G. marked the tragic end of an era.  
 The industry shifted towards commercialization, with artists like Jay-Z and Eminem dominating charts.  
 
-Positives: Greater mainstream recognition, global spread of hip hop.  
-Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
+- Positives: Greater mainstream recognition, global spread of hip hop.  
+- Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
 
-8. Modern Hip Hop  
+## 8. Modern Hip Hop  
 
-Kendrick Lamar (image link: https://i.imgur.com/GFKOYTV.jpg)
+![Kendrick Lamar](https://i.imgur.com/GFKOYTV.jpg)
 
 “If I’m gonna tell a real story, I’m gonna start with my name.” – Kendrick Lamar  
 
